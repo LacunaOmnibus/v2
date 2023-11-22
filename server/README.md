@@ -6,6 +6,10 @@ Server for the up-and-coming community edition of The Lacuna Expanse.
 
 Setting up your own Lacuna game server requires [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/). A setup guide with additional information can be found [here](info/setup.md) or [here local](https://github.com/LacunaOmnibus/v2/blob/main/site/content/developer/server/docker-setup.md).
 
+# But really..
+
+[Here](https://github.com/LacunaOmnibus/ka-server/blob/master/info/setup.md)
+
 # License
 
 See the [LICENSE](info/LICENSE) file.
